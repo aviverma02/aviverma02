@@ -14,47 +14,47 @@
 <table align="center">
     <tr>
         <td align="center" width="90"><img height="55" src="python.svg" width="55"><br>Python</td> 
-        <td align="center" width="90"><img height="55" src="./icons/js.svg" width="55"><br>JavaScript</td>
-        <td align="center" width="90"><img height="55" src="./icons/ts.svg" width="55"><br>TypeScript</td>
-        <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
-        <td align="center" width="90"><img height="55" src="./icons/flask.svg" width="55"><br>Flask</td>
-        <td align="center" width="90"><img height="55" src="./icons/react.svg" width="55"><br>React</td>
-        <td align="center" width="90"><img height="55" src="./icons/nodejs.svg" width="55"><br>Node.js</td>
-        <td align="center" width="90"><img height="55" src="./icons/express.svg" width="55"><br>Express.js</td>
-        <td align="center" width="90"><img height="55" src="./icons/fastapi.svg" width="55"><br>FastAPI</td>
+        <td align="center" width="90"><img height="55" src="js.svg" width="55"><br>JavaScript</td>
+        <td align="center" width="90"><img height="55" src="ts.svg" width="55"><br>TypeScript</td>
+        <td align="center" width="90"><img height="55" src="django.svg" width="55"><br>Django</td>
+        <td align="center" width="90"><img height="55" src="flask.svg" width="55"><br>Flask</td>
+        <td align="center" width="90"><img height="55" src="react.svg" width="55"><br>React</td>
+        <td align="center" width="90"><img height="55" src="nodejs.svg" width="55"><br>Node.js</td>
+        <td align="center" width="90"><img height="55" src="express.svg" width="55"><br>Express.js</td>
+        <td align="center" width="90"><img height="55" src="fastapi.svg" width="55"><br>FastAPI</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/postgres.svg" width="55"><br>PostgreSQL</td>
-        <td align="center" width="90"><img height="55" src="./icons/redis.svg" width="55"><br>Redis</td>
-        <td align="center" width="90"><img height="55" src="./icons/firebase.svg" width="55"><br>Firebase</td>
-        <td align="center" width="90"><img height="55" src="./icons/docker.svg" width="55"><br>Docker</td>
-        <td align="center" width="90"><img height="55" src="./icons/git.svg" width="55"><br>Git</td>
-        <td align="center" width="90"><img height="55" src="./icons/github.svg" width="55"><br>GitHub</td>
-        <td align="center" width="90"><img height="55" src="./icons/gitlab.svg" width="55"><br>GitLab</td>
-        <td align="center" width="90"><img height="55" src="./icons/cloudflare.svg" width="55"><br>Cloudflare</td>
-        <td align="center" width="90"><img height="55" src="./icons/workers.svg" width="55"><br>Workers</td>
+        <td align="center" width="90"><img height="55" src="postgres.svg" width="55"><br>PostgreSQL</td>
+        <td align="center" width="90"><img height="55" src="redis.svg" width="55"><br>Redis</td>
+        <td align="center" width="90"><img height="55" src="firebase.svg" width="55"><br>Firebase</td>
+        <td align="center" width="90"><img height="55" src="docker.svg" width="55"><br>Docker</td>
+        <td align="center" width="90"><img height="55" src="git.svg" width="55"><br>Git</td>
+        <td align="center" width="90"><img height="55" src="github.svg" width="55"><br>GitHub</td>
+        <td align="center" width="90"><img height="55" src="gitlab.svg" width="55"><br>GitLab</td>
+        <td align="center" width="90"><img height="55" src="cloudflare.svg" width="55"><br>Cloudflare</td>
+        <td align="center" width="90"><img height="55" src="workers.svg" width="55"><br>Workers</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/gcp.svg" width="55"><br>GCP</td>
-        <td align="center" width="90"><img height="55" src="./icons/aws.svg" width="55"><br>AWS</td>
-        <td align="center" width="90"><img height="55" src="./icons/azure.svg" width="55"><br>Azure</td>
-        <td align="center" width="90"><img height="55" src="./icons/mongodb.svg" width="55"><br>MongoDB</td>
-        <td align="center" width="90"><img height="55" src="./icons/cfpages.svg" width="55"><br>Pages</td>
-        <td align="center" width="90"><img height="55" src="./icons/postman.svg" width="55"><br>Postman</td>
-        <td align="center" width="90"><img height="55" src="./icons/supabase.svg" width="55"><br>Supabase</td>
-        <td align="center" width="90"><img height="55" src="./icons/html.svg" width="55"><br>HTML</td>
-        <td align="center" width="90"><img height="55" src="./icons/css.svg" width="55"><br>CSS</td>
+        <td align="center" width="90"><img height="55" src="gcp.svg" width="55"><br>GCP</td>
+        <td align="center" width="90"><img height="55" src="aws.svg" width="55"><br>AWS</td>
+        <td align="center" width="90"><img height="55" src="azure.svg" width="55"><br>Azure</td>
+        <td align="center" width="90"><img height="55" src="mongodb.svg" width="55"><br>MongoDB</td>
+        <td align="center" width="90"><img height="55" src="cfpages.svg" width="55"><br>Pages</td>
+        <td align="center" width="90"><img height="55" src="postman.svg" width="55"><br>Postman</td>
+        <td align="center" width="90"><img height="55" src="supabase.svg" width="55"><br>Supabase</td>
+        <td align="center" width="90"><img height="55" src="html.svg" width="55"><br>HTML</td>
+        <td align="center" width="90"><img height="55" src="css.svg" width="55"><br>CSS</td>
     </tr>
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/mysql.svg" width="55"><br>MySQL</td>
-        <td align="center" width="90"><img height="55" src="./icons/sqlite.svg" width="55"><br>SQLite</td>
-        <td align="center" width="90"><img height="55" src="./icons/obsidian.svg" width="55"><br>Obsidian</td>
-        <td align="center" width="90"><img height="55" src="./icons/vim.svg" width="55"><br>Vim</td>
-        <td align="center" width="90"><img height="55" src="./icons/vscodium.svg" width="55"><br>VSCodium</td>
-        <td align="center" width="90"><img height="55" src="./icons/regex.svg" width="55"><br>Regex</td>
-        <td align="center" width="90"><img height="55" src="./icons/md.svg" width="55"><br>Markdown</td>
-        <td align="center" width="90"><img height="55" src="./icons/c.svg" width="55"><br>C</td>
-        <td align="center" width="90"><img height="55" src="./icons/debian.svg" width="55"><br>Debian</td>
+        <td align="center" width="90"><img height="55" src="mysql.svg" width="55"><br>MySQL</td>
+        <td align="center" width="90"><img height="55" src="sqlite.svg" width="55"><br>SQLite</td>
+        <td align="center" width="90"><img height="55" src="obsidian.svg" width="55"><br>Obsidian</td>
+        <td align="center" width="90"><img height="55" src="vim.svg" width="55"><br>Vim</td>
+        <td align="center" width="90"><img height="55" src="vscodium.svg" width="55"><br>VSCodium</td>
+        <td align="center" width="90"><img height="55" src="regex.svg" width="55"><br>Regex</td>
+        <td align="center" width="90"><img height="55" src="md.svg" width="55"><br>Markdown</td>
+        <td align="center" width="90"><img height="55" src="c.svg" width="55"><br>C</td>
+        <td align="center" width="90"><img height="55" src="debian.svg" width="55"><br>Debian</td>
     </tr>
 </table>
 
