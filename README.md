@@ -1,3 +1,7 @@
+<img src="./assets/header_divider.gif" width="100%">
+<img src="./assets/header.png">
+
+
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <h3 align="center">A Passionate AI & Software Engineering Student from India 🚀</h3>
 
