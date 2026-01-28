@@ -1,15 +1,15 @@
-<img src="./assets/header_divider.gif" width="100%">
-<img src="./assets/header.png">
+<img src="header_divider.gif" width="100%">
+<img src="header.png">
 
-# <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="./assets/waving.gif" width="30">
+# <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="waving.gif" width="30">
 
-<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
-<img src="./assets/line_break.gif">
+<img src="about_me.gif" width="35">&nbsp;**_About Me_**
+<img src="line_break.gif">
 
 <p style="font-size: 1.25rem;">I'm a <b>passionate AI Engineer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
 
-<img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
-<img src="./assets/line_break.gif">
+<img src="script_sticker.gif" width="30">&nbsp;**_Stack I used_**
+<img src="line_break.gif">
 
 <table align="center">
     <tr>
@@ -58,8 +58,8 @@
     </tr>
 </table>
 
-<img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
-<img src="./assets/line_break.gif">
+<img src="stats_logo.gif" width="35">&nbsp;**_Github Stats_**
+<img src="line_break.gif">
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" alt="aviverma02 github-readme-stats" width="48%" />
