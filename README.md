@@ -1,46 +1,19 @@
 <img src="./assets/header_divider.gif" width="100%">
 <img src="./assets/header.png">
 
+# <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="./assets/waving.gif" width="30">
 
-<h1 align="center">Hi 👋, I'm Avinash Verma</h1>
 <img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="./assets/line_break.gif">
 
-<p style="font-size: 1.25rem;">I'm a <b>Passionate AI & Software Engineering Student</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviverma02&label=Profile%20views&color=0e75b6&style=flat" alt="aviverma02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviverma02" alt="aviverma02" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures & Algorithms, Machine Learning, Git & GitHub, Web Development**
-
-- 👯 I’m looking to collaborate on **Open Source Python, AI & ML , Web Development Projects**
-
-- 🤝 I’m looking for help with **Advanced DSA, System Design & Machine Learning Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/aviverma02](https://github.com/aviverma02)
-
-- 📝 I regularly write articles on [LinkedI(https://www.linkedin.com/in/avinash-verma-5054a8381/) & GitHub (Tech, Learning & Project Documentation)](LinkedI(https://www.linkedin.com/in/avinash-verma-5054a8381/) & GitHub (Tech, Learning & Project Documentation))
-
-- 💬 Ask me about **Python, C Programming, GitHub, DSA Basics, AI Concepts, Open Source**
-
-- 📫 How to reach me **aviverma6394760329@gmail.com**
-
-- ⚡ Fun fact **I turn coffee ☕ into clean, working code 💻**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avinash-verma-5054a8381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash-verma-5054a8381" height="30" width="40" /></a>
-<a href="https://instagram.com/_avinash_4527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avinash_4527" height="30" width="40" /></a>
-</p>
+<p style="font-size: 1.25rem;">I'm a <b>passionate AI Engineer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
 
 <img src="./assets/script_sticker.gif" width="30">&nbsp;**_Stack I used_**
 <img src="./assets/line_break.gif">
 
 <table align="center">
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td>
+        <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td> 
         <td align="center" width="90"><img height="55" src="./icons/js.svg" width="55"><br>JavaScript</td>
         <td align="center" width="90"><img height="55" src="./icons/ts.svg" width="55"><br>TypeScript</td>
         <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
@@ -88,8 +61,19 @@
 <img src="./assets/stats_logo.gif" width="35">&nbsp;**_Github Stats_**
 <img src="./assets/line_break.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviverma02&show_icons=true&locale=en&layout=compact" alt="aviverma02" /></p>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" alt="aviverma02 github-readme-stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aviverma02&theme=tokyonight" width="51%" />
+</div>
+<br />
+<div>
+    <img src="https://github-contributor-stats.vercel.app/api?username=aviverma02&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aviverma02&theme=merko" alt="aviverma02 github readme activity graph" width="100%" />
+</div>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&show_icons=true&locale=en" alt="aviverma02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviverma02&" alt="aviverma02" /></p>
+[![An image of @amandevelops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandevelops)](https://holopin.io/@amandevelops)
+<img src="./assets/header_divider.gif" width="100%">
