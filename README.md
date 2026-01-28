@@ -3,7 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Avinash Verma</h1>
-<h3 align="center">A Passionate AI & Software Engineering Student from India 🚀</h3>
+<img src="./assets/about_me.gif" width="35">&nbsp;**_About Me_**
+<img src="./assets/line_break.gif">
+
+<p style="font-size: 1.25rem;">I'm a <b>Passionate AI & Software Engineering Student</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviverma02&label=Profile%20views&color=0e75b6&style=flat" alt="aviverma02" /> </p>
 
