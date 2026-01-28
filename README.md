@@ -74,6 +74,3 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aviverma02&theme=merko" alt="aviverma02 github readme activity graph" width="100%" />
 </div>
 <br>
-
-[![An image of @amandevelops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amandevelops)](https://holopin.io/@amandevelops)
-<img src="./assets/header_divider.gif" width="100%">
