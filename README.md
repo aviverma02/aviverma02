@@ -74,3 +74,9 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aviverma02&theme=merko" alt="aviverma02 github readme activity graph" width="100%" />
 </div>
 <br>
+<p align="center">
+  <a href="https://holopin.io/@aviverma02">
+    <img src="https://holopin.me/aviverma02" alt="Holopin Badges" />
+  </a>
+</p>
+
