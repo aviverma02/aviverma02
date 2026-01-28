@@ -13,7 +13,7 @@
 
 <table align="center">
     <tr>
-        <td align="center" width="90"><img height="55" src="./icons/python.svg" width="55"><br>Python</td> 
+        <td align="center" width="90"><img height="55" src="python.svg" width="55"><br>Python</td> 
         <td align="center" width="90"><img height="55" src="./icons/js.svg" width="55"><br>JavaScript</td>
         <td align="center" width="90"><img height="55" src="./icons/ts.svg" width="55"><br>TypeScript</td>
         <td align="center" width="90"><img height="55" src="./icons/django.svg" width="55"><br>Django</td>
