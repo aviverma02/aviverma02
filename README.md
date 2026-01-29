@@ -1,7 +1,7 @@
 <img src="header_divider.gif" width="100%">
 <img src="header.png">
 
-# <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="waving.gif" width="30">
+# <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="waving.gif" width="30"> 
 
 <img src="about_me.gif" width="35">&nbsp;**_About Me_**
 <img src="line_break.gif">
