@@ -3,7 +3,7 @@
 
 # <b>Hi there, I'm </b><a href="https://github.com/aviverma02">Avinash Verma</a> <img src="waving.gif" width="30"> 
 
-<img src="about_me.gif" width="35">&nbsp;**_About Me_**
+<img src="about_me.gif" width="35">&nbsp;**_About Me_** 
 <img src="line_break.gif">
 
 <p style="font-size: 1.25rem;">I'm a <b>passionate AI Engineer</b> who learned that the best way to understand code is to share it with the world. As an active <b>Open-Source Contributor</b>, I've found that debugging gets easier when you have thousands of potential collaborators on GitHub. I particularly enjoy working with Python and JavaScript.</p>
