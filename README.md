@@ -67,7 +67,7 @@
 </div>
 <br />
 <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=aviverma02&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="48%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=aviverma02&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="100%" />
 </div>
 <br />
 <div>
