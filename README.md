@@ -61,13 +61,25 @@
 <img src="stats_logo.gif" width="35">&nbsp;**_Github Stats_**
 <img src="line_break.gif">
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" alt="aviverma02 github-readme-stats" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aviverma02&theme=tokyonight" width="51%" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" 
+        width="95%" 
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=aviverma02&theme=tokyonight" 
+        width="95%" 
+      />
+    </td>
+  </tr>
+</table>
 <br />
 <div>
-    <img src="https://github-contributor-stats.vercel.app/api?username=aviverma02&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="100%" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=aviverma02&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true" width="38%" />
 </div>
 <br />
 <div>
