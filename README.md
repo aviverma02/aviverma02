@@ -62,8 +62,8 @@
 <img src="line_break.gif">
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" alt="aviverma02 github-readme-stats" width=50%" />
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aviverma02&theme=tokyonight" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aviverma02&layout=compact&show_icons=true&theme=tokyonight" alt="aviverma02 github-readme-stats" width=48%" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=aviverma02&theme=tokyonight" width="49%" />
 </div>
 <br />
 <div>
