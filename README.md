@@ -78,5 +78,5 @@
   <a href="https://holopin.io/@aviverma02">
     <img src="https://holopin.me/aviverma02" alt="Holopin Badges" />
   </a>
-</p>
+</p> 
 <img src="header_divider.gif" width="100%">
